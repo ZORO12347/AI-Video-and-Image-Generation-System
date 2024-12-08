@@ -5,7 +5,7 @@ Welcome to the **AI Video and Image Generation System**! 🎥✨ This project le
 ## 📌 Features
 
 - **Generate Images & Videos**: Input a text prompt, and the system will generate related images and videos.
-- **Motivational Content**: Perfect for creating personalized and motivational content.
+- **Personalized Content**: Perfect for creating personalized content.
 - **Content Storage**: The system stores generated images and videos for easy retrieval.
 - **Real-time Processing**: The app handles multiple requests efficiently and processes content in real-time.
 
